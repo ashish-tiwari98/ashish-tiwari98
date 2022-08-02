@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently learning MongoDB, Express , Node, React , django 
 
-- 👯 I’m looking to collaborate on Projects, Open Source contributions and Tech Articles 
+- 👯 I’m looking to collaborate on Projects, Open Source contributions, Tech Articles and Freelancing opportunities
 
-- 💬 Talk to me about Python, JavaScript, CPP, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, JavaScript, CPP. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/ashish-tiwari98?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
