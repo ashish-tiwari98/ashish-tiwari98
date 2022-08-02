@@ -54,18 +54,18 @@
 <a href = 'https://www.github.com/ashish-tiwari98'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<!-- <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a>
-<br>
+<br> -->
 
 
 <h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 ![Metrics](https://metrics.lecoq.io/ashish-tiwari98?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-<h2> My Blog Posts </h2>
+<!-- <h2> My Blog Posts </h2> -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
