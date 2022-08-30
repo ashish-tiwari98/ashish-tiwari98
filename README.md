@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.gif" alt="cover" disabled/>
+<img width="100%" height = "250px" src="images/banner5.gif" alt="cover"/>
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "images/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ashish-tiwari98.ashish-tiwari98)
@@ -11,9 +11,9 @@
 <div size='20px'> Hi! My name is Ashish Tiwari. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me <img src = "images/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="images/git-header.svg" />
 
 
 - 🔭 I’m currently working on Projects involving HTML, CSS and Javascripts. I am looking for freelance work involving frontend development.
@@ -49,7 +49,7 @@
 <a href= https://github.com/ashish-tiwari98?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me <img src='images/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/ashish-tiwari-b45885191/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/ashish-tiwari98'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
@@ -61,7 +61,7 @@
 <br> -->
 
 
-<h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2> My GitHub Stats <img src='images/github.gif' width='32px' height=32px> </h2>
 
 ![Metrics](https://metrics.lecoq.io/ashish-tiwari98?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
@@ -70,10 +70,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+<h2> Some Programming Humor for you <img align ='center' src='images/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
