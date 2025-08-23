@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ashish-tiwari98/task-management-system">
+      <a href="https://github.com/ashish-tiwari98/Task-Management-App">
         <br>
         <b>Task Management System</b>
       </a>
