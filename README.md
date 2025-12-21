@@ -54,7 +54,7 @@
 <h2> 📈 GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashish-tiwari98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ashish-tiwari98)](https://git.io/streak-stats) 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-tiwari98&layout=compact&theme=tokyonight&hide_border=true"/>  
 </p>
 
