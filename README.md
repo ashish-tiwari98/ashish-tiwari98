@@ -14,9 +14,9 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🔭 I’m currently working on **Backend Infrastructure & Cloud Migration**  
+- 🔭 I’m currently working on **Backend Infrastructure & Cloud**  
 - 🌱 Learning **System Design, Cloud (GCP)**  
-- 🛠 Skilled in `C++`, `Spring Boot`, `Python (automation)`, `Jenkins`, `ansible`, `Control-M`, `React`  
+- 🛠 Skilled in `Java`, `C++`, `Spring Boot`, `Python (automation)`, `Jenkins`, `ansible`, `Control-M`, `React`  
 - 🎯 Preparing for **SDE-2 backend engineering roles**  
 - ⚡ Fun fact: I automate boring tasks and optimize workflows 🚀  
 
@@ -25,6 +25,7 @@
 <h2> 🛠 Tech Stack </h2>
 
 <p>
+  
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
