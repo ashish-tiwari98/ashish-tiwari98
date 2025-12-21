@@ -53,11 +53,11 @@
 
 <h2> 📈 GitHub Stats </h2>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ashish-tiwari98" alt="GitHub Streak" /></a>
-</p>
+</p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-tiwari98&theme=tokyonight&hide_border=true"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-tiwari98&layout=compact&theme=tokyonight&hide_border=true"/>  
 </p>
 
 ---
