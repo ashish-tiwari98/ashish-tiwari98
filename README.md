@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **Backend Infrastructure & Cloud**  
 - 🌱 Learning **System Design, Cloud (GCP)**  
 - 🛠 Skilled in `Java`, `C++`, `Spring Boot`, `Python (automation)`, `Jenkins`, `ansible`, `Control-M`, `React`  
-- 🎯 Preparing for **SDE-2 backend engineering roles**  
+- 🎯 Preparing for roles which lie in intersection of **software engineering and platform reliability**.
 - ⚡ Fun fact: I automate boring tasks and optimize workflows 🚀  
 
 ---
